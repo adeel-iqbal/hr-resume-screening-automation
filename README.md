@@ -4,6 +4,10 @@ An end-to-end automation system built on **n8n** that takes over the entire resu
 
 Built with **n8n**, **OpenAI (GPT-4o)**, **Gmail**, **Google Sheets**, and **Google Drive**.
 
+<p align="center">
+  <img src="Screenshots/5.png" alt="HR Resume Screening Automation Workflow" width="100%"/>
+</p>
+
 ---
 
 ## 🔍 The Problem
